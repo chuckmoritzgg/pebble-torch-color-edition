@@ -1,0 +1,30 @@
+{
+    "author": "m.wiewiegand@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "flashlight-core-edition",
+    "pebble": {
+        "displayName": "flashlight core edition",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery",
+            "gabbro",
+            "flint"
+        ],
+        "uuid": "0a9ae20c-fd12-4f9c-9eed-cf074bb556c5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
